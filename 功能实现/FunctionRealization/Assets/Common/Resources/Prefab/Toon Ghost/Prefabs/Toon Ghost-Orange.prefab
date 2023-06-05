@@ -416,6 +416,7 @@ GameObject:
   m_Component:
   - component: {fileID: 452924}
   - component: {fileID: 9529090}
+  - component: {fileID: 8806801523680136181}
   m_Layer: 0
   m_Name: Toon Ghost-Orange
   m_TagString: Untagged
@@ -469,6 +470,20 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &8806801523680136181
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 177012}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 476762837989a7b418c759f94360fb97, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  prefabPath: 
+  modelSize: {x: 0, y: 0, z: 0}
 --- !u!1 &182356
 GameObject:
   m_ObjectHideFlags: 0

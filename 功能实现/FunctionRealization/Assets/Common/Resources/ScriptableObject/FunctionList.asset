@@ -61,3 +61,9 @@ MonoBehaviour:
   - Name: "\u56DB\u53C9\u6811\u573A\u666F\u7BA1\u7406"
     AbsolutePath: "M:\\UnityProject\\MyUnity-GroceryStore\\\u529F\u80FD\u5B9E\u73B0\\FunctionRealization\\Assets\\Function\\\u56DB\u53C9\u6811\u573A\u666F\u7BA1\u7406"
     State: 2
+  - Name: "SLG\u5927\u5730\u56FE"
+    AbsolutePath: "C:\\MyUnity-GroceryStore\\\u529F\u80FD\u5B9E\u73B0\\FunctionRealization\\Assets\\Function\\SLG\u5927\u5730\u56FE"
+    State: 0
+  - Name: TileWorldMap
+    AbsolutePath: "C:\\MyUnity-GroceryStore\\\u529F\u80FD\u5B9E\u73B0\\FunctionRealization\\Assets\\Function\\TileWorldMap"
+    State: 0

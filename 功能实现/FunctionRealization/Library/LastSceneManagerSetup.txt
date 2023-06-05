@@ -1,5 +1,0 @@
-sceneSetups:
-- path: "Assets/Function/Dotween\u52A8\u753B/\u7FFB\u724C\u6548\u679C/Scenes/\u7FFB\u724C\u6548\u679C.unity"
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0

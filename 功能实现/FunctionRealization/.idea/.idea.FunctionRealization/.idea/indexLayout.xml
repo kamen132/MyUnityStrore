@@ -5,6 +5,7 @@
       <Path>Assets/Function/通用活动系统/Scripts</Path>
     </attachedFolders>
     <explicitIncludes>
+      <Path>Library/PackageCache/com.unity.2d.tilemap.extras@2.2.5</Path>
       <Path>Library/PackageCache/com.unity.editorcoroutines@1.0.0</Path>
       <Path>Library/PackageCache/com.unity.ext.nunit@1.0.6</Path>
       <Path>Library/PackageCache/com.unity.ide.rider@3.0.15</Path>
