@@ -1,7 +1,6 @@
-# MyUnity-GroceryStore
-Unity杂货铺：包括知识点、项目代码、游戏资源、功能实现等等
+整理知识点、代码、游戏资源、功能实现等等
 
-## [GitHub优秀项目](https://github.com/kamen132/MyUnity-GroceryStore/tree/main/GitHub%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE)
+# GitHub优秀项目
 ## 完整项目类
 * [GameFrameWork](https://github.com/EllanJiang/UnityGameFramework) nb就完事了
 * [GF塔防项目](https://github.com/DrFlower/TowerDefense-GameFramework-Demo)
@@ -9,6 +8,8 @@ Unity杂货铺：包括知识点、项目代码、游戏资源、功能实现等
 * [EGamePlay](https://github.com/m969/EGamePlay)
 * 木叶战记续作 战旗游戏：https://github.com/Phynic/SLGanim
 ## 框架类
+* 代码风格比较合得来的框架BDFramework : https://github.com/yimengfan/BDFramework.Core -- [博客](https://www.zhihu.com/people/xiao-fan-fan-zhu)
+* [GameFrameWork](https://github.com/EllanJiang/UnityGameFramework) GF爱好者
 * 资源框架CatAsset Task机制 注释超全：https://github.com/CatImmortal/CatAsset
 *  ECS:https://github.com/XINCGer/Unity3DTraining/tree/master/ECS
 ### 战斗类
