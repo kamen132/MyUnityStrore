@@ -38,7 +38,7 @@
 * 游戏开发相关算法： https://github.com/IceLanguage/LinHowe_GameAlgorithm
 
 
-## 个人博客
+## 大佬博客
 * 烟雨迷离半世殇:https://www.lfzxb.top/
 
 ## [功能实现篇](https://github.com/kamen132/MyUnity-GroceryStore/tree/main/%E5%8A%9F%E8%83%BD%E5%AE%9E%E7%8E%B0)
