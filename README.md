@@ -10,8 +10,10 @@ Unity杂货铺：包括知识点、项目代码、游戏资源、功能实现等
 * 木叶战记续作 战旗游戏：https://github.com/Phynic/SLGanim
 ## 框架类
 * 资源框架CatAsset Task机制 注释超全：https://github.com/CatImmortal/CatAsset
-*  Entity Component实现的技能框架：https://github.com/m969/EGamePlay
 *  ECS:https://github.com/XINCGer/Unity3DTraining/tree/master/ECS
+### 战斗类
+* 回合制战斗+技能编辑：https://github.com/yimengfan/PosePlus_1.0
+*  Entity Component实现的技能框架：https://github.com/m969/EGamePlay
 
 ## 功能类
 * Unity破解：https://github.com/tylearymf/UniHacker
