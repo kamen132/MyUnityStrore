@@ -2,7 +2,6 @@
 
 # GitHub优秀项目
 ## 完整项目类
-* [GameFrameWork](https://github.com/EllanJiang/UnityGameFramework) nb就完事了
 * [GF塔防项目](https://github.com/DrFlower/TowerDefense-GameFramework-Demo)
 * [Unity ECS 官方案例](https://github.com/Unity-Technologies/EntityComponentSystemSamples)
 * [EGamePlay](https://github.com/m969/EGamePlay)
