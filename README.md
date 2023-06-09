@@ -13,7 +13,7 @@
 * 资源框架CatAsset Task机制 注释超全：https://github.com/CatImmortal/CatAsset
 *  ECS:https://github.com/XINCGer/Unity3DTraining/tree/master/ECS
 ### 战斗类
-* 回合制战斗+技能编辑：https://github.com/yimengfan/PosePlus_1.0
+* 回合制战斗+技能编辑：https://github.com/yimengfan/PosePlus_TBS
 *  Entity Component实现的技能框架：https://github.com/m969/EGamePlay
 
 ## 功能类
