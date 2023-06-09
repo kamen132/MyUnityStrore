@@ -31,6 +31,7 @@
 * Unity 实现各种寻路算法 :https://github.com/dbrizov/Unity-PathFindingAlgorithms
 
 ## 文档类
+* Unity Editor扩展 : https://github.com/XINCGer/UnityToolchainsTrick
 * 设计模式 ： https://github.com/XINCGer/Unity3DTraining/tree/master/DesignPatterns
 * 设计模式【Design Patterns Written in Unity3D】 ：https://github.com/QianMo/Unity-Design-Pattern
 * 大话设计模式 ：https://github.com/WeihanLi/DesignPatterns
