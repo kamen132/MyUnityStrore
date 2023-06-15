@@ -15,7 +15,7 @@ MonoBehaviour:
   FunctionList:
   - Name: "Dotween\u52A8\u753B"
     AbsolutePath: "M:\\UnityProject\\MyUnity-GroceryStore\\\u529F\u80FD\u5B9E\u73B0\\FunctionRealization\\Assets\\Function\\Dotween\u52A8\u753B"
-    State: 1
+    State: 2
   - Name: "Image\u753B\u7B26"
     AbsolutePath: "M:\\UnityProject\\MyUnity-GroceryStore\\\u529F\u80FD\u5B9E\u73B0\\FunctionRealization\\Assets\\Function\\Image\u753B\u7B26"
     State: 2
@@ -42,7 +42,7 @@ MonoBehaviour:
     State: 2
   - Name: "\u81EA\u52A8\u751F\u6210\u754C\u9762\u57FA\u7840\u4EE3\u7801"
     AbsolutePath: "M:\\UnityProject\\MyUnity-GroceryStore\\\u529F\u80FD\u5B9E\u73B0\\FunctionRealization\\Assets\\Function\\\u81EA\u52A8\u751F\u6210\u754C\u9762\u57FA\u7840\u4EE3\u7801"
-    State: 1
+    State: 0
   - Name: "\u8D1D\u585E\u5C14\u66F2\u7EBF"
     AbsolutePath: "M:\\UnityProject\\MyUnity-GroceryStore\\\u529F\u80FD\u5B9E\u73B0\\FunctionRealization\\Assets\\Function\\\u8D1D\u585E\u5C14\u66F2\u7EBF"
     State: 2
@@ -67,3 +67,13 @@ MonoBehaviour:
   - Name: TileWorldMap
     AbsolutePath: "C:\\MyUnity-GroceryStore\\\u529F\u80FD\u5B9E\u73B0\\FunctionRealization\\Assets\\Function\\TileWorldMap"
     State: 0
+  - Name: "ScrollView \u79FB\u52A8\u56FA\u5B9A\u4F4D\u7F6E+\u7F29\u653E"
+    AbsolutePath: "C:\\MyUnity-GroceryStore\\\u529F\u80FD\u5B9E\u73B0\\FunctionRealization\\Assets\\Function\\ScrollView
+      \u79FB\u52A8\u56FA\u5B9A\u4F4D\u7F6E+\u7F29\u653E"
+    State: 2
+  - Name: "\u4E07\u56FD\u6218\u6597UI\u7BAD\u5934\u6307\u5411\u5B9E\u73B0"
+    AbsolutePath: "C:\\MyUnity-GroceryStore\\\u529F\u80FD\u5B9E\u73B0\\FunctionRealization\\Assets\\Function\\\u4E07\u56FD\u6218\u6597UI\u7BAD\u5934\u6307\u5411\u5B9E\u73B0"
+    State: 0
+  - Name: HUD
+    AbsolutePath: "C:\\MyUnity-GroceryStore\\\u529F\u80FD\u5B9E\u73B0\\FunctionRealization\\Assets\\Function\\HUD"
+    State: 1
