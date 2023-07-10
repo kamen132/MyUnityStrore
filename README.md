@@ -29,6 +29,7 @@
 * Unity 后台下载 ：https://github.com/Unity-Technologies/BackgroundDownload
 * 四叉树场景加载 ： https://github.com/ChuKuang/QuadTreeDemo
 * Unity 实现各种寻路算法 :https://github.com/dbrizov/Unity-PathFindingAlgorithms
+* 相机跟随: https://github.com/GibsS/unity-pan-and-zoom.git
 
 ## 文档类
 * Unity Editor扩展 : https://github.com/XINCGer/UnityToolchainsTrick
